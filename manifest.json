@@ -1,9 +1,0 @@
-{
-  "name": "Private Chat",
-  "short_name": "Chat",
-  "start_url": "./chat.html.html",
-  "display": "standalone",
-  "background_color": "#1a1a1a",
-  "theme_color": "#c8102e",
-  "icons": []
-}
